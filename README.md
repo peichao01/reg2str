@@ -24,4 +24,7 @@ a.length                   ==> 1
 
 reg2str
 -------------
+
+```javascript
 reg2str(new RegExp('/')) ==> "/\//"
+```
