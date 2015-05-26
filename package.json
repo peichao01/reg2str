@@ -1,0 +1,25 @@
+{
+  "name": "reg2str",
+  "version": "1.0.1",
+  "description": "RegExp to string, the default regexp.toString() will output a different string in nodejs and iojs/chrome",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/peichao01/reg2str.git"
+  },
+  "keywords": [
+    "regexp",
+    "tostring",
+    "string",
+    "regToString"
+  ],
+  "author": "pei.chao@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peichao01/reg2str/issues"
+  },
+  "homepage": "https://github.com/peichao01/reg2str#readme"
+}
