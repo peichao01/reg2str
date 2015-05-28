@@ -1,6 +1,6 @@
 {
   "name": "reg2str",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "RegExp to string, the default regexp.toString() will output a different string in nodejs and iojs/chrome",
   "main": "index.js",
   "scripts": {
